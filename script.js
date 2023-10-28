@@ -35,6 +35,6 @@ function convertToRoman(num) {
 }
 
 // Test cases
-console.log(convertToRoman(36)); // Output: XXXVI
+console.log(convertToRoman(14)); // Output: XXXVI
 
 module.exports = convertToRoman;
